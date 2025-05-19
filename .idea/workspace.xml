@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="086e7328-4185-4a2b-8b60-b560c845965c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRCCan_Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question1/BashTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question1/Bumper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question1/DropTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question1/PinballComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question2/ColorPickerComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question2/ColorPickerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question2/ColorPickerGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question2/ColorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ColorPickerComponentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ColorPickerControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PinballComponentTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2xGs0gLXtEh6cCELRPfHJdTCJG7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kylet\Desktop\fourth\SRCCan_Assignment\src\Question1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="086e7328-4185-4a2b-8b60-b560c845965c" name="Changes" comment="" />
+      <created>1747575524237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747575524237</updated>
+      <workItem from="1747575525750" duration="1580000" />
+      <workItem from="1747577167427" duration="1840000" />
+      <workItem from="1747589260443" duration="4249000" />
+      <workItem from="1747656343457" duration="5437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
